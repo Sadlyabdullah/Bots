@@ -50,4 +50,4 @@ function stopContainer(message) {
   });
 }
 
-bot.login('MTExNDk0MjYzMjk2ODMzNTQwMQ.GgeZjP.V5BMpJibrSsSHmIL-QnberBFRpVvSL08_Vtqrk');
+bot.login('token');
